@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    padding: 0px;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 300%;
+}
+
+.post {
+    margin: 0 0 30px;
+    border-bottom: 3px dotted silver;
+    padding: 0 0 5px;
+}
+.post:last-child {
+    border-bottom: none;
+}
+.post h3 {
+    margin: 0;
+}
+
+.details {
+    color: mediumpurple;
+    margin: 8px 0 5px;
+    padding-left: .5em;
+}
+
+
+.content p {
+    margin: 13px 0;
+}
+
+
